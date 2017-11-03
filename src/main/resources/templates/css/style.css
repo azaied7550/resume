@@ -1,0 +1,98 @@
+h1 {
+    font-size: 35px;
+    display: block;
+    color: brown;
+    margin-top:-5px;}
+
+
+h1 span {
+    font-size:21px;
+    display:block;
+    color:brown;
+    margin-top:-5px;}
+h3{
+    font-size: 12px;
+    color:brown;
+}
+
+h2, h1 span{
+    font-size: 22px;
+    color:brown;
+}
+
+ .persoimg{
+    height: 200px;
+    width: 90%;
+     margin-top: 10px;
+}
+ul em{
+    font-size: 12px;
+    color:black;
+}
+em {
+    font-size: 12px;
+    color: blue;
+}
+
+
+div ul li {
+    margin-left: -5px;
+    font-size: 12px;
+
+}
+body {
+    margin-bottom: 3cm;
+}
+
+
+.contact ul {
+    list-style: none;
+}
+
+.contact ul li {
+    float:left;
+    width:21px;
+    height:24px;
+    margin:0;
+    padding:0;
+    margin-left:6px;
+}
+
+.personal {
+    width:250px;
+    float:left;
+    padding-top:11px;
+    margin-left:38px;
+    margin-bottom:15px;
+    margin-top:5px;
+}
+
+.personal ul {
+    padding-top: 10px;
+    margin-left:-40px;
+}
+
+.personal ul li.ad {
+    background-image:url(../image/address.gif);
+}
+
+.personal ul li.mail {
+    background-image:url(../image/mail.gif);
+}
+
+.personal ul li.tel {
+    background-image:url(../image/tel.gif);
+}
+
+.personal ul li.web {
+    background-image:url(../image/web.gif);
+}
+
+.personal ul li {
+    background-repeat: no-repeat;
+    padding-left:26px;
+    background-position: 0 .1em;
+    height:25px;
+    display:block;
+    margin-top:-2px;
+}
